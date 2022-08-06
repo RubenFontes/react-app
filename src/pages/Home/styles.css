@@ -35,12 +35,10 @@
     border: none;
     font-size: 16px;
 }
-input::-webkit-input-placeholder,
-textarea::-webkit-input-placeholder {
+input::-webkit-input-placeholder {
   color: silver;
 }
 input:focus{
-    border: 1px solid #6788FF;
     outline: none;
 }
 .container button {
