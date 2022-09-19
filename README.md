@@ -1,5 +1,5 @@
 # react-invite-list
-<p>Realiza uma lista de chamadas no front-end. Projeto criado com intuito de praticar meus conhecimentos em componentização, hooks e  fetch api. Feito com React & TypeScript</p>
+<p>Gerencie uma lista de presença. Projeto criado com intuito de praticar meus conhecimentos em componentização, hooks e  fetch api. Feito com React & TypeScript</p>
 
 ## Build
 
