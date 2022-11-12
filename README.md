@@ -1,5 +1,5 @@
-# react-invite-list
-<p>Gerencie uma lista de presença. Projeto criado com intuito de praticar meus conhecimentos em componentização, hooks e  fetch api. Feito com React & TypeScript</p>
+# About
+<p>Gerencie uma lista de presença | Feito com Reactjs & TypeScript</p>
 
 ## Build
 
