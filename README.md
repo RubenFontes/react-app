@@ -1,5 +1,5 @@
 # About
-<p>Gerencie uma lista de presença | Feito com Reactjs & TypeScript</p>
+<p>Gerencie uma lista de presença
 
 ## Build
 
