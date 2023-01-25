@@ -1,7 +1,7 @@
 # About
 <p>Gerencie uma lista de presença
 
-## Build
+## Install
 
 ```
 npm install
